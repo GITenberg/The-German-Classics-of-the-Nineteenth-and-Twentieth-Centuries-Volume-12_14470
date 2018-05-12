@@ -1,0 +1,59 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-12_14470
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Teodor
+    - Fontane, Henri Theodore
+    - Fontane, Henri Théodore
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+  - agent_name: Freytag, Gustav
+    alias: Freitag, Gustav
+    birthdate: 1816
+    deathdate: 1895
+    gutenberg_agent_id: '8864'
+    url: http://www.gutenberg.org/2009/agents/8864
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Freytag
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+  - agent_name: Howard, William Guild
+    birthdate: 1868
+    deathdate: 1960
+    gutenberg_agent_id: '31593'
+    url: http://www.gutenberg.org/2009/agents/31593
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+tableOfContents: "The Life of Gustav Freytag. By Ernest F. Henderson\r\nFREYTAG: The\
+  \ Journalists.\r\nDoctor Luther.\r\nFrederick the Great.\r\nThe Life of Theodor\
+  \ Fontane. By William A. Cooper\r\nFONTANE: Effi Briest.\r\nExtracts from \"My Childhood\
+  \ Days.\"\r\nSir Ribbeck of Ribbeck.\r\nThe Bridge by the Tay."
+title: The German Classics of the Nineteenth and Twentieth Centuries, Volume 12
+url: http://www.gutenberg.org/ebooks/14470
