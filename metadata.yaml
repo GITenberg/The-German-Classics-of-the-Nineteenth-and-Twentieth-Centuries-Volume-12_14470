@@ -38,6 +38,8 @@ creator:
     gutenberg_agent_id: '31593'
     url: http://www.gutenberg.org/2009/agents/31593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14470#The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-12
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-12-26'
 gutenberg_type: Text
